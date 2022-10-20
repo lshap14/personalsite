@@ -1,0 +1,206 @@
+/***********************EXTERNAL TAGS************************/
+div {
+  text-align: center;
+}
+
+h1 {
+  margin-top: 50px auto 0 auto;
+  font-family: 'Pacifico', cursive;
+  font-size: 5.625rem;
+  color: #2F8F9D;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #2F8F9D;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #2F8F9D;
+}
+
+body {
+  margin: 0;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+hr {
+  border: none;
+  border-top: 5px dotted #D8D8D8;
+  width: 5%;
+  color: #D8D8D8;
+  margin: 125px auto;
+}
+
+p {
+  line-height: 1.75;
+}
+
+a:hover {
+  color: white;
+}
+
+
+/*********************** CLASS TAGS - use period ***********************/
+.top-container {
+  background-color: #B3E8E5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+
+.profile {
+  text-align: center;
+}
+
+.intro{
+  width: 35%;
+  margin: auto;
+}
+
+.contact-me {
+  background-color: #82DBD8;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.profpic {
+  height: 265px;
+  width: 265px;
+}
+
+.skill-row1 {
+  width: 50%;
+  margin: 75px auto 175px auto;
+  text-align: left;
+}
+
+.skill-row2 {
+  width: 50%;
+  margin: 50px auto 175px auto;
+  text-align: left;
+}
+
+.passions-row1 {
+  width: 50%;
+  margin: 75px auto 175px auto;
+  text-align: left;
+}
+
+.passions-row2 {
+  width: 50%;
+  margin: 50px auto 175px auto;
+  text-align: left;
+}
+
+.coding {
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+}
+
+.sales {
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+}
+
+.sports {
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+}
+
+.ent {
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+}
+
+.contact-me {
+  background-color: white;
+  padding-bottom: 20px;
+}
+
+.footer-link {
+  color: #2F8F9D;
+  padding-left: 15px;
+  padding-right: 15px;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.contact-message {
+  width: 30%;
+  margin: auto;
+  padding-bottom: 20px;
+}
+
+.trademark {
+  margin: 0;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: white;
+  font-size: 0.75rem;
+}
+
+.bottom-container {
+  background-color: #B3E8E5;
+  margin: 0;
+  padding-top: 30px;
+}
+
+.btn {
+  background: #B3E8E5;
+  background-image: -webkit-linear-gradient(top, #B3E8E5, #2F8F9D);
+  background-image: -moz-linear-gradient(top, #B3E8E5, #2F8F9D);
+  background-image: -ms-linear-gradient(top, #B3E8E5, #2F8F9D);
+  background-image: -o-linear-gradient(top, #B3E8E5, #2F8F9D);
+  background-image: linear-gradient(to bottom, #B3E8E5, #2F8F9D);
+  -webkit-border-radius: 29;
+  -moz-border-radius: 29;
+  border-radius: 29px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #82DBD8;
+  background-image: -webkit-linear-gradient(top, #82DBD8, #2F8F9D);
+  background-image: -moz-linear-gradient(top, #82DBD8, #2F8F9D);
+  background-image: -ms-linear-gradient(top, #82DBD8, #2F8F9D);
+  background-image: -o-linear-gradient(top, #82DBD8, #2F8F9D);
+  background-image: linear-gradient(to bottom, #82DBD8, #2F8F9D);
+  text-decoration: none;
+}
+
+
+
+
+
+/*********************** ID TAGS - use hashtag ************************/
